@@ -15,7 +15,7 @@ A simple Telegram bot to track daily and monthly expenses. Built with Python and
 
 Clone this repository
 
-git clone https://github.com/annamj111/telegram-expense-tracker.git
+git clone https://github.com/annamj111/BillBuddy-Telegram-expense-tracker.git
 cd telegram-expense-tracker
 
 
